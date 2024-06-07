@@ -23,13 +23,13 @@ The CNN model consists of the following layers:
 
 # Installation
 1. Clone the repository:
-```bash
-git clone https://github.com/dharaneesh-23/pet-classification-and-localization.git
-```
+  ```bash
+  git clone https://github.com/dharaneesh-23/pet-classification-and-localization.git
+  ```
 2. Navigate to the project directory
-```bash
-cd pet-classification-localization
-```
+  ```bash
+  cd pet-classification-and-localization
+  ```
 3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
